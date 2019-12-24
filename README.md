@@ -3,4 +3,4 @@ A basic GUI that allows you to store your emails, password and account informati
 
 # How To Run
 
-    ```Python main.py``` 
+```Python main.py``` 
